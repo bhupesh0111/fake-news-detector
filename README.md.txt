@@ -59,7 +59,7 @@ This is a web app that predicts whether a news article is **REAL** or **FAKE** u
 Hosted on Hugging Face Spaces:
 
 > ⬇️ Replace with your actual URL:
-> **[https://your-username-fake-news-app.hf.space](https://your-username-fake-news-app.hf.space)**
+> **[https://your-username-fake-news-app.hf.space](https://bhupesh0111-fake-news-bhupesh.hf.space)**
 
 ---
 
