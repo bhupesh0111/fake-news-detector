@@ -52,7 +52,9 @@ This is a web app that predicts whether a news article is **REAL** or **FAKE** u
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Demo  ### 🌐 Live Demo
+[📰 Click here to try the Fake News Detector](https://bhupesh0111-fake-news-bhupesh.hf.space)
+
 
 Hosted on Hugging Face Spaces:
 
